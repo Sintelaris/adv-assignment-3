@@ -1,0 +1,3 @@
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
