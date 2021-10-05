@@ -142,6 +142,102 @@ Account.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\Account.cpp.s
 .PHONY : Account.cpp.s
 
+SavingsAccount.obj: SavingsAccount.cpp.obj
+.PHONY : SavingsAccount.obj
+
+# target to build an object file
+SavingsAccount.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj
+.PHONY : SavingsAccount.cpp.obj
+
+SavingsAccount.i: SavingsAccount.cpp.i
+.PHONY : SavingsAccount.i
+
+# target to preprocess a source file
+SavingsAccount.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccount.cpp.i
+.PHONY : SavingsAccount.cpp.i
+
+SavingsAccount.s: SavingsAccount.cpp.s
+.PHONY : SavingsAccount.s
+
+# target to generate assembly for a file
+SavingsAccount.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccount.cpp.s
+.PHONY : SavingsAccount.cpp.s
+
+SavingsAccountDollar.obj: SavingsAccountDollar.cpp.obj
+.PHONY : SavingsAccountDollar.obj
+
+# target to build an object file
+SavingsAccountDollar.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj
+.PHONY : SavingsAccountDollar.cpp.obj
+
+SavingsAccountDollar.i: SavingsAccountDollar.cpp.i
+.PHONY : SavingsAccountDollar.i
+
+# target to preprocess a source file
+SavingsAccountDollar.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.i
+.PHONY : SavingsAccountDollar.cpp.i
+
+SavingsAccountDollar.s: SavingsAccountDollar.cpp.s
+.PHONY : SavingsAccountDollar.s
+
+# target to generate assembly for a file
+SavingsAccountDollar.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.s
+.PHONY : SavingsAccountDollar.cpp.s
+
+SavingsAccountEuro.obj: SavingsAccountEuro.cpp.obj
+.PHONY : SavingsAccountEuro.obj
+
+# target to build an object file
+SavingsAccountEuro.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj
+.PHONY : SavingsAccountEuro.cpp.obj
+
+SavingsAccountEuro.i: SavingsAccountEuro.cpp.i
+.PHONY : SavingsAccountEuro.i
+
+# target to preprocess a source file
+SavingsAccountEuro.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.i
+.PHONY : SavingsAccountEuro.cpp.i
+
+SavingsAccountEuro.s: SavingsAccountEuro.cpp.s
+.PHONY : SavingsAccountEuro.s
+
+# target to generate assembly for a file
+SavingsAccountEuro.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.s
+.PHONY : SavingsAccountEuro.cpp.s
+
+SavingsAccountTenge.obj: SavingsAccountTenge.cpp.obj
+.PHONY : SavingsAccountTenge.obj
+
+# target to build an object file
+SavingsAccountTenge.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj
+.PHONY : SavingsAccountTenge.cpp.obj
+
+SavingsAccountTenge.i: SavingsAccountTenge.cpp.i
+.PHONY : SavingsAccountTenge.i
+
+# target to preprocess a source file
+SavingsAccountTenge.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.i
+.PHONY : SavingsAccountTenge.cpp.i
+
+SavingsAccountTenge.s: SavingsAccountTenge.cpp.s
+.PHONY : SavingsAccountTenge.s
+
+# target to generate assembly for a file
+SavingsAccountTenge.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.s
+.PHONY : SavingsAccountTenge.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -178,6 +274,18 @@ help:
 	@echo ... Account.obj
 	@echo ... Account.i
 	@echo ... Account.s
+	@echo ... SavingsAccount.obj
+	@echo ... SavingsAccount.i
+	@echo ... SavingsAccount.s
+	@echo ... SavingsAccountDollar.obj
+	@echo ... SavingsAccountDollar.i
+	@echo ... SavingsAccountDollar.s
+	@echo ... SavingsAccountEuro.obj
+	@echo ... SavingsAccountEuro.i
+	@echo ... SavingsAccountEuro.s
+	@echo ... SavingsAccountTenge.obj
+	@echo ... SavingsAccountTenge.i
+	@echo ... SavingsAccountTenge.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

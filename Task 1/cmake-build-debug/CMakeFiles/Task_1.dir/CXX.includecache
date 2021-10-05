@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.cpp
+Account.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
+time.h
+-
+thread
+-
+chrono
+-
+
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
+string
+-
+iostream
+-
+

@@ -1,6 +1,7 @@
 #include <iostream>
-
+#include "Account.h"
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Account check = Account();
+    check.timer();
     return 0;
 }
