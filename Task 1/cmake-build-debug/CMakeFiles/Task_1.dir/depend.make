@@ -4,29 +4,43 @@
 CMakeFiles\Task_1.dir\Account.cpp.obj: ..\Account.cpp
 CMakeFiles\Task_1.dir\Account.cpp.obj: ..\Account.h
 
+CMakeFiles\Task_1.dir\CheckingAccount.cpp.obj: ..\Account.h
+CMakeFiles\Task_1.dir\CheckingAccount.cpp.obj: ..\CheckingAccount.cpp
+CMakeFiles\Task_1.dir\CheckingAccount.cpp.obj: ..\CheckingAccount.h
+
 CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\Account.h
 CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\SavingsAccount.cpp
 CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\SavingsAccount.h
+CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\SavingsAccountDollar.h
+CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\SavingsAccountEuro.h
+CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\SavingsAccountTenge.h
 
 CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\Account.h
-CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\SavingsAccount.h
 CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\SavingsAccountDollar.cpp
 CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\SavingsAccountDollar.h
 
 CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\Account.h
-CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\SavingsAccount.h
 CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\SavingsAccountEuro.cpp
 CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\SavingsAccountEuro.h
 
 CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\Account.h
-CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\SavingsAccount.h
 CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\SavingsAccountTenge.cpp
 CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\SavingsAccountTenge.h
 
+CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\Account.h
+CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\SavingsAccount.h
+CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\SavingsAccountDollar.h
+CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\SavingsAccountEuro.h
+CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\SavingsAccountTenge.h
+CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\TrustAccount.cpp
+CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\TrustAccount.h
+
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\Account.h
+CMakeFiles\Task_1.dir\main.cpp.obj: ..\CheckingAccount.h
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccount.h
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccountDollar.h
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccountEuro.h
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccountTenge.h
+CMakeFiles\Task_1.dir\main.cpp.obj: ..\TrustAccount.h
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\main.cpp
 

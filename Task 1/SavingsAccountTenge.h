@@ -6,10 +6,10 @@
 #define TASK_1_SAVINGSACCOUNTTENGE_H
 
 
-#include "SavingsAccount.h"
+#include "Account.h"
 
-class SavingsAccountTenge: public SavingsAccount {
-private:
+class SavingsAccountTenge: public Account {
+protected:
     double interest_rate;
 public:
     SavingsAccountTenge();

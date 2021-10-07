@@ -13,11 +13,11 @@ Account::Account(){
     balance = 0;
     dollars = 0;
     euros = 0;
-    tenge = 0;
+    tengeler = 0;
 }
 
-Account::Account(string name, double balance, double dollars, double euros, double tenge): name(name),
-dollars(dollars), euros(euros), tenge(tenge){}
+Account::Account(string name, double balance, double dollars, double euros, double tengeler): name(name),
+dollars(dollars), euros(euros), tengeler(tengeler){}
 
 
 

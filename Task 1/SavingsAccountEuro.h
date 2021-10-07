@@ -6,10 +6,10 @@
 #define TASK_1_SAVINGSACCOUNTEURO_H
 
 
-#include "SavingsAccount.h"
+#include "Account.h"
 
-class SavingsAccountEuro: public SavingsAccount {
-private:
+class SavingsAccountEuro: public Account {
+protected:
     double interest_rate;
 public:
     SavingsAccountEuro();

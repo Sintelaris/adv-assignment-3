@@ -4,10 +4,10 @@
 
 #ifndef TASK_1_SAVINGSACCOUNTDOLLAR_H
 #define TASK_1_SAVINGSACCOUNTDOLLAR_H
-#include "SavingsAccount.h"
+#include "Account.h"
 
-class SavingsAccountDollar: public SavingsAccount{
-private:
+class SavingsAccountDollar: public Account{
+protected:
     double interest_rate;
 public:
     SavingsAccountDollar();

@@ -11,7 +11,7 @@ using namespace std;
 class Account {
 protected:
     string name;
-    double balance, dollars, euros, tenge;
+    double balance, dollars, euros, tengeler;
 
 public:
     Account();

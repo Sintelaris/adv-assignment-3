@@ -8,7 +8,7 @@ void TrustAccount::deposit(double add_money) {
     if(balance > 1000){
         balance += 10;
     }
-    balance  += balance * (1 + (interest_rate/100)) + add_money;
+    balance  += balance * (1 + (dollar.interest_rate/100)) + add_money;
     recalculate_balance();
 }
 

@@ -6,7 +6,7 @@
 #define TASK_1_TRUSTACCOUNT_H
 #include "SavingsAccount.h"
 
-class TrustAccount: public SavingsAccount {
+class TrustAccount: public Account, public SavingsAccountDollar{
 public:
     virtual void deposit(double add_money);
     virtual void withdraw(double withdraw_number);
