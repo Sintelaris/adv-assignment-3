@@ -8,6 +8,25 @@ CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\Account.h
 CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\SavingsAccount.cpp
 CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj: ..\SavingsAccount.h
 
+CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\Account.h
+CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\SavingsAccount.h
+CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\SavingsAccountDollar.cpp
+CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\SavingsAccountDollar.h
+
+CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\Account.h
+CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\SavingsAccount.h
+CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\SavingsAccountEuro.cpp
+CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\SavingsAccountEuro.h
+
+CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\Account.h
+CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\SavingsAccount.h
+CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\SavingsAccountTenge.cpp
+CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\SavingsAccountTenge.h
+
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\Account.h
+CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccount.h
+CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccountDollar.h
+CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccountEuro.h
+CMakeFiles\Task_1.dir\main.cpp.obj: ..\SavingsAccountTenge.h
 CMakeFiles\Task_1.dir\main.cpp.obj: ..\main.cpp
 

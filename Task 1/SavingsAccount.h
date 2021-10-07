@@ -8,14 +8,14 @@
 #include "Account.h"
 
 class SavingsAccount: public Account {
-private:
+protected:
     double interest_rate;
+    void recalculate_balance();
 public:
     SavingsAccount();
     SavingsAccount(double interest_rate);
     virtual void deposit(double add_money);
     virtual void withdraw(double withdraw_number);
 };
-
 
 #endif //TASK_1_SAVINGSACCOUNT_H

@@ -19,11 +19,6 @@ Account::Account(){
 Account::Account(string name, double balance, double dollars, double euros, double tenge): name(name),
 dollars(dollars), euros(euros), tenge(tenge){}
 
-//hallo
-
-void Account::recalculate_balance() {
-    balance = dollars*425 + euros*495 + tenge;
-}
 
 
 

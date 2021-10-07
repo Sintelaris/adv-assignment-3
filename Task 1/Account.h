@@ -20,8 +20,6 @@ public:
     virtual void deposit(double add_money) = 0;
 
     virtual void withdraw(double withdraw_number) = 0;
-
-    void recalculate_balance();
 };
 
 

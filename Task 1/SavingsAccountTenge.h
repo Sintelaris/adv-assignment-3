@@ -6,8 +6,16 @@
 #define TASK_1_SAVINGSACCOUNTTENGE_H
 
 
-class SavingsAccountTenge {
+#include "SavingsAccount.h"
 
+class SavingsAccountTenge: public SavingsAccount {
+private:
+    double interest_rate;
+public:
+    SavingsAccountTenge();
+    SavingsAccountTenge(double interest_rate);
+    virtual void deposit(double add_money);
+    virtual void withdraw(double withdraw_number);
 };
 
 
