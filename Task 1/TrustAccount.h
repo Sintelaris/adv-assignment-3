@@ -1,15 +1,19 @@
 //
-// Created by Sintelaris on 07.10.2021.
+// Created by Sintelaris on 08.10.2021.
 //
 
 #ifndef TASK_1_TRUSTACCOUNT_H
 #define TASK_1_TRUSTACCOUNT_H
+
 #include "SavingsAccount.h"
 
-class TrustAccount: public Account, public SavingsAccountDollar{
+class TrustAccount: public SavingsAccount{
 public:
+    TrustAccount();
     virtual void deposit(double add_money);
     virtual void withdraw(double withdraw_number);
+    void printBalance() override;
+
 };
 
 

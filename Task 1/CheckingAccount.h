@@ -1,25 +1,22 @@
 //
-// Created by Sintelaris on 07.10.2021.
+// Created by Sintelaris on 08.10.2021.
 //
 
 #ifndef TASK_1_CHECKINGACCOUNT_H
 #define TASK_1_CHECKINGACCOUNT_H
-
-
 #include "Account.h"
 
-class CheckingAccount: public Account {
-private:
-    double interest_rate;
-    string name;
-    double fee;
-    double balance;
-public:
-    CheckingAccount();
-    CheckingAccount(double interest_rate, string name, double fee);
-    CheckingAccount(double interest_rate, string name);
-    virtual void deposit(double add_money);
-    virtual void withdraw(double withdraw_number);
+class CheckingAccount: public Account  {
+
+    protected:
+        double fee = 1.5;
+        double interest_rate_dollar, interest_rate_euro, interest_rate_tenge;
+    public:
+        CheckingAccount();
+        virtual void deposit(double add_money);
+        virtual void withdraw(double withdraw_number);
+        void printBalance() override;
+        void recalculate_balance();
 };
 
 

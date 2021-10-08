@@ -166,6 +166,30 @@ CheckingAccount.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\CheckingAccount.cpp.s
 .PHONY : CheckingAccount.cpp.s
 
+I_Printable.obj: I_Printable.cpp.obj
+.PHONY : I_Printable.obj
+
+# target to build an object file
+I_Printable.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\I_Printable.cpp.obj
+.PHONY : I_Printable.cpp.obj
+
+I_Printable.i: I_Printable.cpp.i
+.PHONY : I_Printable.i
+
+# target to preprocess a source file
+I_Printable.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\I_Printable.cpp.i
+.PHONY : I_Printable.cpp.i
+
+I_Printable.s: I_Printable.cpp.s
+.PHONY : I_Printable.s
+
+# target to generate assembly for a file
+I_Printable.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\I_Printable.cpp.s
+.PHONY : I_Printable.cpp.s
+
 SavingsAccount.obj: SavingsAccount.cpp.obj
 .PHONY : SavingsAccount.obj
 
@@ -189,78 +213,6 @@ SavingsAccount.s: SavingsAccount.cpp.s
 SavingsAccount.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccount.cpp.s
 .PHONY : SavingsAccount.cpp.s
-
-SavingsAccountDollar.obj: SavingsAccountDollar.cpp.obj
-.PHONY : SavingsAccountDollar.obj
-
-# target to build an object file
-SavingsAccountDollar.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj
-.PHONY : SavingsAccountDollar.cpp.obj
-
-SavingsAccountDollar.i: SavingsAccountDollar.cpp.i
-.PHONY : SavingsAccountDollar.i
-
-# target to preprocess a source file
-SavingsAccountDollar.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.i
-.PHONY : SavingsAccountDollar.cpp.i
-
-SavingsAccountDollar.s: SavingsAccountDollar.cpp.s
-.PHONY : SavingsAccountDollar.s
-
-# target to generate assembly for a file
-SavingsAccountDollar.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.s
-.PHONY : SavingsAccountDollar.cpp.s
-
-SavingsAccountEuro.obj: SavingsAccountEuro.cpp.obj
-.PHONY : SavingsAccountEuro.obj
-
-# target to build an object file
-SavingsAccountEuro.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj
-.PHONY : SavingsAccountEuro.cpp.obj
-
-SavingsAccountEuro.i: SavingsAccountEuro.cpp.i
-.PHONY : SavingsAccountEuro.i
-
-# target to preprocess a source file
-SavingsAccountEuro.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.i
-.PHONY : SavingsAccountEuro.cpp.i
-
-SavingsAccountEuro.s: SavingsAccountEuro.cpp.s
-.PHONY : SavingsAccountEuro.s
-
-# target to generate assembly for a file
-SavingsAccountEuro.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.s
-.PHONY : SavingsAccountEuro.cpp.s
-
-SavingsAccountTenge.obj: SavingsAccountTenge.cpp.obj
-.PHONY : SavingsAccountTenge.obj
-
-# target to build an object file
-SavingsAccountTenge.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj
-.PHONY : SavingsAccountTenge.cpp.obj
-
-SavingsAccountTenge.i: SavingsAccountTenge.cpp.i
-.PHONY : SavingsAccountTenge.i
-
-# target to preprocess a source file
-SavingsAccountTenge.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.i
-.PHONY : SavingsAccountTenge.cpp.i
-
-SavingsAccountTenge.s: SavingsAccountTenge.cpp.s
-.PHONY : SavingsAccountTenge.s
-
-# target to generate assembly for a file
-SavingsAccountTenge.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task_1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.s
-.PHONY : SavingsAccountTenge.cpp.s
 
 TrustAccount.obj: TrustAccount.cpp.obj
 .PHONY : TrustAccount.obj
@@ -325,18 +277,12 @@ help:
 	@echo ... CheckingAccount.obj
 	@echo ... CheckingAccount.i
 	@echo ... CheckingAccount.s
+	@echo ... I_Printable.obj
+	@echo ... I_Printable.i
+	@echo ... I_Printable.s
 	@echo ... SavingsAccount.obj
 	@echo ... SavingsAccount.i
 	@echo ... SavingsAccount.s
-	@echo ... SavingsAccountDollar.obj
-	@echo ... SavingsAccountDollar.i
-	@echo ... SavingsAccountDollar.s
-	@echo ... SavingsAccountEuro.obj
-	@echo ... SavingsAccountEuro.i
-	@echo ... SavingsAccountEuro.s
-	@echo ... SavingsAccountTenge.obj
-	@echo ... SavingsAccountTenge.i
-	@echo ... SavingsAccountTenge.s
 	@echo ... TrustAccount.obj
 	@echo ... TrustAccount.i
 	@echo ... TrustAccount.s

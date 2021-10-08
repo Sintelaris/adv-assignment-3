@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Task_1.dir/Account.cpp.obj"
   "CMakeFiles/Task_1.dir/CheckingAccount.cpp.obj"
+  "CMakeFiles/Task_1.dir/I_Printable.cpp.obj"
   "CMakeFiles/Task_1.dir/SavingsAccount.cpp.obj"
-  "CMakeFiles/Task_1.dir/SavingsAccountDollar.cpp.obj"
-  "CMakeFiles/Task_1.dir/SavingsAccountEuro.cpp.obj"
-  "CMakeFiles/Task_1.dir/SavingsAccountTenge.cpp.obj"
   "CMakeFiles/Task_1.dir/TrustAccount.cpp.obj"
   "CMakeFiles/Task_1.dir/main.cpp.obj"
   "Task_1.exe"

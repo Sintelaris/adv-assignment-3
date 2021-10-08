@@ -10,10 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/Account.cpp.obj"
   "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/CheckingAccount.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CheckingAccount.cpp.obj"
+  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/I_Printable.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/I_Printable.cpp.obj"
   "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/SavingsAccount.cpp.obj"
-  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountDollar.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/SavingsAccountDollar.cpp.obj"
-  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountEuro.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/SavingsAccountEuro.cpp.obj"
-  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountTenge.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/SavingsAccountTenge.cpp.obj"
   "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/TrustAccount.cpp.obj"
   "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/main.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/main.cpp.obj"
   )

@@ -9,8 +9,16 @@
 C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
 string
 -
+I_Printable.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/I_Printable.h
 iostream
 -
+
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/CheckingAccount.h
+Account.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
+
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/I_Printable.h
 
 C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.cpp
 SavingsAccount.h
@@ -19,26 +27,26 @@ C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1
 C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h
 Account.h
 C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
-SavingsAccountDollar.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountDollar.h
-SavingsAccountTenge.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountTenge.h
-SavingsAccountEuro.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountEuro.h
 
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountDollar.cpp
-SavingsAccountDollar.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountDollar.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.cpp
+TrustAccount.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.h
+iostream
+-
 
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountDollar.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.h
+SavingsAccount.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h
+
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/main.cpp
+iostream
+-
 Account.h
 C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountEuro.h
-Account.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountTenge.h
-Account.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
+SavingsAccount.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h
+CheckingAccount.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/CheckingAccount.h
+TrustAccount.h
+C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.h
 

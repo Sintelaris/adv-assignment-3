@@ -112,66 +112,9 @@ CMakeFiles\Task_1.dir\SavingsAccount.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Task_1.dir\SavingsAccount.cpp.s /c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccount.cpp"
 <<
 
-CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: CMakeFiles\Task_1.dir\flags.make
-CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj: ..\SavingsAccountEuro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Task_1.dir/SavingsAccountEuro.cpp.obj"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj /FdCMakeFiles\Task_1.dir\ /FS -c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountEuro.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Task_1.dir/SavingsAccountEuro.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountEuro.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Task_1.dir/SavingsAccountEuro.cpp.s"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.s /c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountEuro.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: CMakeFiles\Task_1.dir\flags.make
-CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj: ..\SavingsAccountDollar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Task_1.dir/SavingsAccountDollar.cpp.obj"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj /FdCMakeFiles\Task_1.dir\ /FS -c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountDollar.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Task_1.dir/SavingsAccountDollar.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountDollar.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Task_1.dir/SavingsAccountDollar.cpp.s"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.s /c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountDollar.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: CMakeFiles\Task_1.dir\flags.make
-CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj: ..\SavingsAccountTenge.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Task_1.dir/SavingsAccountTenge.cpp.obj"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj /FdCMakeFiles\Task_1.dir\ /FS -c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountTenge.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Task_1.dir/SavingsAccountTenge.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountTenge.cpp"
-<<
-
-CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Task_1.dir/SavingsAccountTenge.cpp.s"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.s /c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\SavingsAccountTenge.cpp"
-<<
-
 CMakeFiles\Task_1.dir\CheckingAccount.cpp.obj: CMakeFiles\Task_1.dir\flags.make
 CMakeFiles\Task_1.dir\CheckingAccount.cpp.obj: ..\CheckingAccount.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Task_1.dir/CheckingAccount.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Task_1.dir/CheckingAccount.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Task_1.dir\CheckingAccount.cpp.obj /FdCMakeFiles\Task_1.dir\ /FS -c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\CheckingAccount.cpp"
 <<
@@ -190,7 +133,7 @@ CMakeFiles\Task_1.dir\CheckingAccount.cpp.s: cmake_force
 
 CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: CMakeFiles\Task_1.dir\flags.make
 CMakeFiles\Task_1.dir\TrustAccount.cpp.obj: ..\TrustAccount.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Task_1.dir/TrustAccount.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Task_1.dir/TrustAccount.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Task_1.dir\TrustAccount.cpp.obj /FdCMakeFiles\Task_1.dir\ /FS -c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\TrustAccount.cpp"
 <<
@@ -207,16 +150,33 @@ CMakeFiles\Task_1.dir\TrustAccount.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Task_1.dir\TrustAccount.cpp.s /c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\TrustAccount.cpp"
 <<
 
+CMakeFiles\Task_1.dir\I_Printable.cpp.obj: CMakeFiles\Task_1.dir\flags.make
+CMakeFiles\Task_1.dir\I_Printable.cpp.obj: ..\I_Printable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Task_1.dir/I_Printable.cpp.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Task_1.dir\I_Printable.cpp.obj /FdCMakeFiles\Task_1.dir\ /FS -c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\I_Printable.cpp"
+<<
+
+CMakeFiles\Task_1.dir\I_Printable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Task_1.dir/I_Printable.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Task_1.dir\I_Printable.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\I_Printable.cpp"
+<<
+
+CMakeFiles\Task_1.dir\I_Printable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Task_1.dir/I_Printable.cpp.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Task_1.dir\I_Printable.cpp.s /c "C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\I_Printable.cpp"
+<<
+
 # Object files for target Task_1
 Task_1_OBJECTS = \
 "CMakeFiles\Task_1.dir\main.cpp.obj" \
 "CMakeFiles\Task_1.dir\Account.cpp.obj" \
 "CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj" \
-"CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj" \
-"CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj" \
-"CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj" \
 "CMakeFiles\Task_1.dir\CheckingAccount.cpp.obj" \
-"CMakeFiles\Task_1.dir\TrustAccount.cpp.obj"
+"CMakeFiles\Task_1.dir\TrustAccount.cpp.obj" \
+"CMakeFiles\Task_1.dir\I_Printable.cpp.obj"
 
 # External object files for target Task_1
 Task_1_EXTERNAL_OBJECTS =
@@ -224,14 +184,12 @@ Task_1_EXTERNAL_OBJECTS =
 Task_1.exe: CMakeFiles\Task_1.dir\main.cpp.obj
 Task_1.exe: CMakeFiles\Task_1.dir\Account.cpp.obj
 Task_1.exe: CMakeFiles\Task_1.dir\SavingsAccount.cpp.obj
-Task_1.exe: CMakeFiles\Task_1.dir\SavingsAccountEuro.cpp.obj
-Task_1.exe: CMakeFiles\Task_1.dir\SavingsAccountDollar.cpp.obj
-Task_1.exe: CMakeFiles\Task_1.dir\SavingsAccountTenge.cpp.obj
 Task_1.exe: CMakeFiles\Task_1.dir\CheckingAccount.cpp.obj
 Task_1.exe: CMakeFiles\Task_1.dir\TrustAccount.cpp.obj
+Task_1.exe: CMakeFiles\Task_1.dir\I_Printable.cpp.obj
 Task_1.exe: CMakeFiles\Task_1.dir\build.make
 Task_1.exe: CMakeFiles\Task_1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Task_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Task_1.exe"
 	"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Task_1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Task_1.dir\objects1.rsp @<<
  /out:Task_1.exe /implib:Task_1.lib /pdb:"C:\Users\Sintelaris\Desktop\Hometasks 2\Advanced programming\3 assignment\Task 1\cmake-build-debug\Task_1.pdb" /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

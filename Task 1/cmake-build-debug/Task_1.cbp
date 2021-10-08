@@ -96,28 +96,16 @@
 		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/CheckingAccount.h">
 			<Option target="Task_1"/>
 		</Unit>
+		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/I_Printable.cpp">
+			<Option target="Task_1"/>
+		</Unit>
+		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/I_Printable.h">
+			<Option target="Task_1"/>
+		</Unit>
 		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.cpp">
 			<Option target="Task_1"/>
 		</Unit>
 		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h">
-			<Option target="Task_1"/>
-		</Unit>
-		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountDollar.cpp">
-			<Option target="Task_1"/>
-		</Unit>
-		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountDollar.h">
-			<Option target="Task_1"/>
-		</Unit>
-		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountEuro.cpp">
-			<Option target="Task_1"/>
-		</Unit>
-		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountEuro.h">
-			<Option target="Task_1"/>
-		</Unit>
-		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountTenge.cpp">
-			<Option target="Task_1"/>
-		</Unit>
-		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccountTenge.h">
 			<Option target="Task_1"/>
 		</Unit>
 		<Unit filename="C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.cpp">
