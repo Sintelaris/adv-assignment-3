@@ -18,7 +18,19 @@ public:
 
     virtual void withdraw(double withdraw_number) = 0;
 
+    void recalculate_balance();
+
     void printBalance();
+
+    void setName(const string &name);
+
+    void setBalance(double balance);
+
+    void setDollars(double dollars);
+
+    void setEuros(double euros);
+
+    void setTengeler(double tengeler);
 };
 
 

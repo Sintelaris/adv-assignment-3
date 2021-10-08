@@ -8,7 +8,13 @@ SavingsAccount::SavingsAccount() {
 
 }
 
-SavingsAccount::SavingsAccount(double interest_rate_dollar, double interest_rate_euro, double interest_rate_tenge):interest_rate_dollar(interest_rate_dollar), interest_rate_euro(interest_rate_euro), interest_rate_tenge(interest_rate_tenge){}
+SavingsAccount::SavingsAccount(string name, double dollars, double euros, double tenge, double interest_rate_dollar, double interest_rate_euro, double interest_rate_tenge):interest_rate_dollar(interest_rate_dollar), interest_rate_euro(interest_rate_euro), interest_rate_tenge(interest_rate_tenge){
+    setName(name);
+    setDollars(dollars);
+    setEuros(euros);
+    setTengeler(tenge);
+    recalculate_balance();
+}
 
 void SavingsAccount::deposit(double add_money) {
     cout << "Input the currency: \n 1 for dollars, 2 for euros, 3 for tenge" << endl;
@@ -44,24 +50,21 @@ void SavingsAccount::withdraw(double withdraw_number){
     recalculate_balance();
 }
 
+void SavingsAccount::setInterestRateDollar(double interestRateDollar) {
+    interest_rate_dollar = interestRateDollar;
+}
 
+void SavingsAccount::setInterestRateEuro(double interestRateEuro) {
+    interest_rate_euro = interestRateEuro;
+}
+
+void SavingsAccount::setInterestRateTenge(double interestRateTenge) {
+    interest_rate_tenge = interestRateTenge;
+}
 
 void SavingsAccount::printBalance() {
-    printBalance();
-}
+    cout << "Your total balance is " << balance << "\n Dollars: " << dollars << ", euros: " << euros << ", tenge: " << tengeler <<
 
-void SavingsAccount::setName(string Name) {
-    name = Name;
-}
 
-void SavingsAccount::setDollar(double Dollar) {
-    this->dollar = Dollar;
-}
 
-void SavingsAccount::setEuro(double Euro) {
-    this->euro = Euro;
-}
-
-void SavingsAccount::setTenge(double Tenge) {
-    this->tenge = Tenge;
 }

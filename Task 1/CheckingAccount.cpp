@@ -43,7 +43,3 @@ void CheckingAccount::withdraw(double withdraw_number){
 void CheckingAccount::printBalance() {
     printBalance();
 }
-
-void CheckingAccount::recalculate_balance() {
-    balance = dollars*425 + euros*495 + tengeler;
-}

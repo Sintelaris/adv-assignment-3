@@ -13,10 +13,9 @@ class CheckingAccount: public Account  {
         double interest_rate_dollar, interest_rate_euro, interest_rate_tenge;
     public:
         CheckingAccount();
-        virtual void deposit(double add_money);
-        virtual void withdraw(double withdraw_number);
+        virtual void deposit(double add_money) override;
+        virtual void withdraw(double withdraw_number) override;
         void printBalance() override;
-        void recalculate_balance();
 };
 
 

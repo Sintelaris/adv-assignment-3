@@ -31,7 +31,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     //SavingsAccount current = SavingsAccount(0.1, 0.1, 0.1, "asd", 1,1,1);
 
-    SavingsAccount* Dora_SA = new SavingsAccount(0.1, 0.1, 0.1);
+    SavingsAccount* Dora_SA = new SavingsAccount("Dora", 1500, 20, 30000, 0.1, 0.1, 0.2);
     Dora_SA->deposit(1000);
     Dora_SA->printBalance();
     //Account *Dora = &Dora_SA;

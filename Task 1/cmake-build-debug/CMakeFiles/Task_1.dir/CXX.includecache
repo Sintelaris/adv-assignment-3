@@ -6,47 +6,55 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/Account.cpp
+Account.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/Account.h
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/Account.h
 string
 -
 I_Printable.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/I_Printable.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/I_Printable.h
 iostream
 -
 
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/CheckingAccount.h
-Account.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/I_Printable.h
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.cpp
-SavingsAccount.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h
-Account.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.cpp
-TrustAccount.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.h
-iostream
--
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.h
-SavingsAccount.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h
-
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/main.cpp
-iostream
--
-Account.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/Account.h
-SavingsAccount.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/SavingsAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/CheckingAccount.cpp
 CheckingAccount.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/CheckingAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/CheckingAccount.h
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/CheckingAccount.h
+Account.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/Account.h
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/I_Printable.h
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/SavingsAccount.cpp
+SavingsAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/SavingsAccount.h
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/SavingsAccount.h
+Account.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/Account.h
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/TrustAccount.cpp
 TrustAccount.h
-C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/3 assignment/Task 1/TrustAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/TrustAccount.h
+iostream
+-
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/TrustAccount.h
+SavingsAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/SavingsAccount.h
+
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/main.cpp
+iostream
+-
+Account.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/Account.h
+SavingsAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/SavingsAccount.h
+CheckingAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/CheckingAccount.h
+TrustAccount.h
+/Users/amira/CLionProjects/adv-assignment-3/Task 1/TrustAccount.h
 

@@ -14,19 +14,16 @@ protected:
 
 public:
     SavingsAccount();
-    SavingsAccount(double interest_rate_dollar, double interest_rate_euro, double interest_rate_tenge);
-    virtual void deposit(double add_money);
-    virtual void withdraw(double withdraw_number);
-    void recalculate_balance();
+    SavingsAccount(string name, double dollars, double euros, double tenge, double interest_rate_dollar, double interest_rate_euro, double interest_rate_tenge);
+    virtual void deposit(double add_money) override;
+    virtual void withdraw(double withdraw_number) override;
     void printBalance() override;
 
-    void setName(string Name);
+    void setInterestRateDollar(double interestRateDollar);
 
-    void setDollar(double Dollar);
+    void setInterestRateEuro(double interestRateEuro);
 
-    void setEuro(double Euro);
-
-    void setTenge(double Tenge);
+    void setInterestRateTenge(double interestRateTenge);
 
 };
 
