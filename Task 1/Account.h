@@ -18,6 +18,8 @@ public:
 
     virtual void withdraw(double withdraw_number) = 0;
 
+    virtual void deposit(double withdraw_number, int choice) = 0;
+
     void recalculate_balance();
 
     void printBalance();

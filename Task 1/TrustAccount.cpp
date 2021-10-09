@@ -9,35 +9,54 @@ using namespace std;
 
 TrustAccount::TrustAccount(){};
 
-void TrustAccount::deposit(double add_money) {
-    cout << "Input the currency: \n 1 for dollars, 2 for euros, 3 for tenge" << endl;
-    int choice;
-    cin >> choice;
+TrustAccount::TrustAccount(string name, double dollars, double euros, double tenge, double interest_rate_dollar, double interest_rate_euro, double interest_rate_tenge){
+    setName(name);
+    setDollars(dollars);
+    setEuros(euros);
+    setTengeler(tenge);
+    setInterestRateDollar(interest_rate_dollar);
+    setInterestRateEuro(interest_rate_euro);
+    setInterestRateTenge(interest_rate_tenge);
+    recalculate_balance();
+}
+
+void TrustAccount::deposit(double add_money, int choice) {
     switch (choice) {
-        case 1: if(dollars > 1000){
+        case 1: if(add_money > 1000){
                 dollars += 10;
+                cout << name << ", you've received a bonus +10!" << endl;
             }
-            dollars += dollars * (1 + (interest_rate_dollar/100)) + add_money;
+            dollars = dollars * (1 + (interest_rate_dollar/100)) + add_money;
             break;
 
-        case 2: if(euros > 1000){
-            euros +=10;
-        }
-            euros += euros * (1 + (interest_rate_euro/100)) + add_money;
+        case 2: if(add_money > 1000){
+                euros += 10;
+                cout << name << ", you've received a bonus +10!" << endl;
+            }
+            euros = euros * (1 + (interest_rate_euro/100)) + add_money;
             break;
 
-        case 3: if(tengeler > 1000){
-                tengeler +=10;
+        case 3: if(add_money > 1000){
+                tengeler += 10;
+                cout << name << ", you've received a bonus +10!" << endl;
             }
-            tengeler += tengeler * (1 + (interest_rate_tenge/100)) + add_money;
+            tengeler = tengeler * (1 + (interest_rate_tenge/100)) + add_money;
             break;
     }
     recalculate_balance();
 }
 
+void TrustAccount::deposit(double add_money) {
+    cout << name << ", input the currency: \n 1 for dollars, 2 for euros, 3 for tenge" << endl;
+    int choice;
+    cin >> choice;
+    deposit(add_money, choice);
+}
+
 void TrustAccount::withdraw(double withdraw_number) {
     cout << "Input the currency: \n 1 for dollars, 2 for euros, 3 for tenge" << endl;
-    int choice, minimum;
+    int choice;
+    double minimum;
     cin >> choice;
     switch (choice) {
         case 1:
@@ -64,6 +83,9 @@ void TrustAccount::withdraw(double withdraw_number) {
     }
     recalculate_balance();
 }
+
+
 void TrustAccount::printBalance() {
-    printBalance();
+    cout << name << ", Your total balance is " << balance << "\n Dollars: " << dollars << ", euros: " << euros << ", tenge: " << tengeler <<
+         "\n Dollar's interest rate: "<< interest_rate_dollar << ", euro's interest rate: "<< interest_rate_euro << ", tenge's interest rate: " << interest_rate_tenge << endl;
 }

@@ -33,7 +33,7 @@ void Account::setTengeler(double tengeler) {
 }
 
 void Account::recalculate_balance() {
-    balance = dollars*425 + euros*495 + tengeler;
+    balance = (dollars*425) + (euros*495) + (tengeler);
 }
 
 void Account::printBalance() {

@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/amira/CLionProjects/adv-assignment-3/Task 1/Account.cpp" "/Users/amira/CLionProjects/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/Account.cpp.o"
-  "/Users/amira/CLionProjects/adv-assignment-3/Task 1/CheckingAccount.cpp" "/Users/amira/CLionProjects/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CheckingAccount.cpp.o"
-  "/Users/amira/CLionProjects/adv-assignment-3/Task 1/I_Printable.cpp" "/Users/amira/CLionProjects/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/I_Printable.cpp.o"
-  "/Users/amira/CLionProjects/adv-assignment-3/Task 1/SavingsAccount.cpp" "/Users/amira/CLionProjects/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/SavingsAccount.cpp.o"
-  "/Users/amira/CLionProjects/adv-assignment-3/Task 1/TrustAccount.cpp" "/Users/amira/CLionProjects/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/TrustAccount.cpp.o"
-  "/Users/amira/CLionProjects/adv-assignment-3/Task 1/main.cpp" "/Users/amira/CLionProjects/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/main.cpp.o"
+  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/Account.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/Account.cpp.obj"
+  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/CheckingAccount.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CheckingAccount.cpp.obj"
+  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/I_Printable.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/I_Printable.cpp.obj"
+  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/SavingsAccount.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/SavingsAccount.cpp.obj"
+  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/TrustAccount.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/TrustAccount.cpp.obj"
+  "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/main.cpp" "C:/Users/Sintelaris/Desktop/Hometasks 2/Advanced programming/adv-assignment-3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

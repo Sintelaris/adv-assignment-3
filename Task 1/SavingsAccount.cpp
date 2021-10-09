@@ -17,17 +17,31 @@ SavingsAccount::SavingsAccount(string name, double dollars, double euros, double
 }
 
 void SavingsAccount::deposit(double add_money) {
-    cout << "Input the currency: \n 1 for dollars, 2 for euros, 3 for tenge" << endl;
+    cout << name << ", input the currency: \n 1 for dollars, 2 for euros, 3 for tenge" << endl;
     int choice;
     cin >> choice;
     switch (choice) {
-        case 1: dollars = dollars * (1 + (interest_rate_dollar/100)) + add_money;
+        case 1: dollars = dollars * (1 + interest_rate_dollar/100) + add_money;
             break;
 
-        case 2: euros  += euros * (1 + (interest_rate_euro/100)) + add_money;
+        case 2: euros  = euros * (1 + interest_rate_euro/100) + add_money;
             break;
 
-        case 3: tengeler += tengeler * (1 + (interest_rate_tenge/100)) + add_money;
+        case 3: tengeler = tengeler * (1 + interest_rate_tenge/100) + add_money;
+            break;
+    }
+    recalculate_balance();
+}
+
+void SavingsAccount::deposit(double add_money, int choice) {
+    switch (choice) {
+        case 1: dollars = dollars * (1 + interest_rate_dollar/100) + add_money;
+            break;
+
+        case 2: euros  = euros * (1 + interest_rate_euro/100) + add_money;
+            break;
+
+        case 3: tengeler = tengeler * (1 + interest_rate_tenge/100) + add_money;
             break;
     }
     recalculate_balance();
@@ -41,30 +55,27 @@ void SavingsAccount::withdraw(double withdraw_number){
         case 1: dollars = dollars - withdraw_number;
             break;
 
-        case 2: euros  += euros - withdraw_number;
+        case 2: euros  = euros - withdraw_number;
             break;
 
-        case 3: tengeler += tengeler - withdraw_number;
+        case 3: tengeler = tengeler - withdraw_number;
             break;
     }
     recalculate_balance();
 }
 
+
 void SavingsAccount::setInterestRateDollar(double interestRateDollar) {
     interest_rate_dollar = interestRateDollar;
 }
-
 void SavingsAccount::setInterestRateEuro(double interestRateEuro) {
     interest_rate_euro = interestRateEuro;
 }
-
 void SavingsAccount::setInterestRateTenge(double interestRateTenge) {
     interest_rate_tenge = interestRateTenge;
 }
 
 void SavingsAccount::printBalance() {
-    cout << "Your total balance is " << balance << "\n Dollars: " << dollars << ", euros: " << euros << ", tenge: " << tengeler <<
-
-
-
+    cout << name << ", Your total balance is " << balance << "\n Dollars: " << dollars << ", euros: " << euros << ", tenge: " << tengeler <<
+    "\n Dollar's interest rate: "<< interest_rate_dollar << ", euro's interest rate: "<< interest_rate_euro << ", tenge's interest rate: " << interest_rate_tenge << endl;
 }
